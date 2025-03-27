@@ -1,3 +1,7 @@
+# Retirement notice
+
+I don't use this project anymore. Feel free to fork it.
+
 # cs-dlp
 
 This is a fork of [coursera-dl](https://github.com/coursera-dl/coursera-dl) that works with modern Python and modern coursera.org, with added features and patches.
